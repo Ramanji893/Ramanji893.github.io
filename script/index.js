@@ -37,8 +37,15 @@ const projects = [
         description: "Starbucks landing page prototype using HTM, CSS, JAVASCRIPT",
         image: './images/starbucks.png',
         buttons: [
-            {name: 'View', github: false, link:'./starbucks/index.htm'},
-            {name: 'Github', github: true, link:'https://www.github.com/muscoff/starbucks'},
+            {name: 'View', github: false, link:'./starbucks/index.htm'}
+        ]
+    },
+    {
+        title: 'Recruitment Management System',
+        description: "This is a php power appication for a web recruitment agency",
+        image: './images/starbucks.png',
+        buttons: [
+            {name: 'View', github: false, link:'https://facebook.com'}
         ]
     },
 ]
